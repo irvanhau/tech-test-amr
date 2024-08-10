@@ -1,6 +1,6 @@
 ## Technical Test PT AMANTRA INVESTAMA INDODANA
 
-1. `git clone https://github.com/irvanhau/tech-test-amr`
+1. Jalankan perintah `git clone https://github.com/irvanhau/tech-test-amr` di command line atau terminal
 2. Jalankan perintah `go mod tidy`
 3. Jalankan perintah `cp .env.example .env`
 4. Buatlah database di postgresql lalu isi `.env`
